@@ -1,0 +1,22 @@
+.container{
+    border: 2px solid red;
+    margin-top: 50px;
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+    background-color:blueviolet;
+    /*line-height: 15px;
+    letter-spacing: 10px;*/
+    background-image: url("images/img12.jpg");
+    height: 300px;
+    width: 500px;
+    float: left;
+
+}
+h2{
+    background-color: brown;
+    padding: 10px;
+}
+p{
+    text-indent: 100px;
+    line-height: 40px;
+}

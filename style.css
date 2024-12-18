@@ -1,0 +1,12 @@
+h2{
+    color:antiquewhite;
+    background-color: blueviolet;
+    padding: 10px;
+}
+p{
+    background-image: url("images/img10.jpg");
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
